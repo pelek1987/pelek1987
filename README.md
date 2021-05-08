@@ -7,6 +7,6 @@ I am Paul. I was born in 1987. By education I am a pharmacist, but since school 
 * :movie_camera: watchig thrillers, documentaries and fantasy movies
 * :evergreen_tree: hiking in the nature, especially in mountains
 
-I encourage you to browse my repositories :blush: and if you want to contact me 📫 [pawel.sioda@gmail.com](mailto:pawel.sioda@gmail.com "My email")  
+I encourage you to browse my repositories :blush: and to contact me 📫 [pawel.sioda@gmail.com](mailto:pawel.sioda@gmail.com "My email") if you want to. 
 
 Bye! 🙂
